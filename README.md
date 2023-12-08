@@ -1,6 +1,6 @@
 # cmake_git
 
-My first version
+In what case will it happen 
 
 My second version
 
