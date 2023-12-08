@@ -4,4 +4,4 @@ My first version
 
 My second version
 
-Test Vscode Bug
+This is test for merge strategy
